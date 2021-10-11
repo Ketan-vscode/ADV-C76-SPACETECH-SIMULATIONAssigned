@@ -37,3 +37,10 @@ body {
 #home{
   color: white;
 }
+
+h1 , h3{
+  color: white;
+  font-family: cursive;
+  font-style: oblique;
+  font-weight: lighter;
+}
